@@ -1,0 +1,7 @@
+# app/code
+src/app/code/community/Mgt/Akismet            app/code/community/Mgt/Akismet
+src/app/code/local/Mgt/Base            app/code/local/Mgt/Base
+
+# app/etc
+src/app/etc/modules/Mgt_Akismet.xml            app/etc/modules/Mgt_Akismet.xml
+src/app/etc/modules/Mgt_Base.xml            app/etc/modules/Mgt_Base.xml
